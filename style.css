@@ -24,6 +24,8 @@
     animation-name: go;
     animation-duration: 216000s;
     transform-origin: 10%;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 .daghighe{
     background: black;
@@ -35,6 +37,8 @@
     animation-name: go;
     animation-duration: 3600s;
     transform-origin: 10%;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 .saniye{
     background: red;
@@ -46,6 +50,8 @@
     animation-name: go;
     animation-duration: 60s;
     transform-origin: 10%;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 
     
 }
