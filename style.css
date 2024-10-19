@@ -15,27 +15,38 @@
     position: relative;
 }
 .saat{
-    border: solid black;
+    background: black;
     width: 50px;
+    height: 7px;
     position: absolute;
     top:185px;
     left: 200px;
+    animation-name: go;
+    animation-duration: 128s;
+    transform-origin: 10%;
 }
 .daghighe{
-    border: solid black;
+    background: black;
     width: 100px;
     position: absolute;
     top:185px;
     left: 200px;
+    animation-name: go;
+    animation-duration: 88s;
+    transform-origin: 10%;
 }
 .saniye{
-    border: solid rgb(255, 0, 0);
+    background: red;
     width: 150px;
+    height: 5px;
     position: absolute;
     top:185px;
     left: 200px;
     animation-name: go;
     animation-duration: 36s;
+    transform-origin: 10%;
+
+    
 }
 @keyframes go{
     from{
