@@ -17,22 +17,23 @@
 .saat{
     background: black;
     width: 50px;
-    height: 7px;
+    height: 10px;
     position: absolute;
     top:185px;
     left: 200px;
     animation-name: go;
-    animation-duration: 128s;
+    animation-duration: 216000s;
     transform-origin: 10%;
 }
 .daghighe{
     background: black;
     width: 100px;
+    height: 7px;
     position: absolute;
     top:185px;
     left: 200px;
     animation-name: go;
-    animation-duration: 88s;
+    animation-duration: 3600s;
     transform-origin: 10%;
 }
 .saniye{
@@ -43,7 +44,7 @@
     top:185px;
     left: 200px;
     animation-name: go;
-    animation-duration: 36s;
+    animation-duration: 60s;
     transform-origin: 10%;
 
     
